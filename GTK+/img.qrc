@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="img1">
+    <file>purple-circle.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>80_button_donate copy.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>155_donate_make_duferance.png</file>
+  </qresource>
+  <qresource prefix="new">
+    <file>150_heart-thank-you.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>face_to_face150.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>1894540.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>175x_1894540.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>versionface_to_face2.png</file>
+  </qresource>
+</RCC>
