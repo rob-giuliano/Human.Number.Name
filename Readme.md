@@ -54,6 +54,13 @@ Check your Results!!
 ======================================================================
 
 
+License & Copyright
+--------------------
+
+Licensed under the [MIT License](LICENSE)
+
+
+
 Donation Project
 ================
 
@@ -71,7 +78,4 @@ Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
 
 
 
-License & Copyright
---------------------
 
-Licensed under the [MIT License](LICENSE)
