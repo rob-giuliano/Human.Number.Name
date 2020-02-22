@@ -6,12 +6,12 @@ HUMAN NUMBER NAME -is professional numerology calculator
 
 How is Work
 ---------------------
-GTK+
 
+GTK+
 ![](images/1.png)
 
-Terminal execution
 
+Terminal execution
 ![](images/2.png)
 
 
@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 or,
 
 sudo apt-get install python3-tk
----------------------------------------
+
 
 
 
