@@ -70,7 +70,8 @@ Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
 
 
 
-License
---------------
-Human Number Name is released under the terms of the Gnu/Gpl.
 
+License & Copyright
+--------------------
+
+Licensed under the [MIT License](LICENSE)
