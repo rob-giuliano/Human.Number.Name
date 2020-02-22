@@ -6,7 +6,12 @@ HUMAN NUMBER NAME -is professional numerology calculator
 
 How is Work
 ---------------------
+GTK+
+
 ![](images/1.png)
+
+Terminal execution
+
 ![](images/2.png)
 
 
@@ -55,7 +60,7 @@ Donation Project
 ================
 
 
-Project Name: OLSEN - MEDIC LOG MANAGER.
+Project Name: Human.Number.Name
 
 Etherium:       0x14996EE0113C46A34b14e4F30197768b174c9486
 
