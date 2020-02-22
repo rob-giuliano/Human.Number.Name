@@ -14,6 +14,7 @@ Terminal execution
 ![](images/2.png)
 
 
+
 Install "dependencies"
 =========================
 
@@ -29,11 +30,10 @@ sudo apt-get install python3-tk
 
 
 
-Open Terminal,
+Open Terminal, run this line:
 
-run this line:
-
-   python3  ./master-name.py  'your-name'               ---->      (ver. python 3.5 +)
+   python3  ./master-name.py  'your-name'               
+   
 
    Insert "Your Name or Full Name"
 
