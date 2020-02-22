@@ -7,7 +7,6 @@ HUMAN NUMBER NAME -is professional numerology calculator
 How is Work
 ---------------------
 
-GTK+
 ![](images/1.png)
 
 
